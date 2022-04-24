@@ -1,9 +1,6 @@
 # *Fintech repository*
 ---
 
-A `print` function in python displays the text or variable passed in the fucntion as output:
+**Welcome to my repo of FinTech projects. Please explore the codebase!**
 
-```python
-text = 'This is a sentence that you would like to display.'
-print (text)
-```
+> "...to go boldly where no one has gone before."
