@@ -1,6 +1,9 @@
 # *Fintech repository*
 ---
-## Fintech repository
-### Fintech repository
 
-**Welcome to my repository of FinTech projects. Please explore the codebase!**
+A `print` function in python displays the text or variable passed in the fucntion as output:
+
+```python
+text = 'This is a sentence that you would like to display.'
+print (text)
+```
