@@ -1,3 +1,5 @@
-# testrepo
+# Fintech repository
+## Fintech repository
+### Fintech repository
 
-Hello World!
+Welcome to my repository of FinTech projects. Please explore the codebase!
